@@ -1,0 +1,5 @@
+content  	favres									jar:chrome/favres.jar!/content/
+skin    	favres				classic/1.0    			jar:chrome/favres.jar!/skin/
+overlay	chrome://browser/content/browser.xul 				chrome://favres/content/favres.xul
+style   	chrome://browser/content/browser.xul 				chrome://favres/skin/favres.css
+

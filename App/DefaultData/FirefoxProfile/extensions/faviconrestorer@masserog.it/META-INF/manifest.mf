@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: C51P+lE3DweSkFItX1PiJw==
+SHA1-Digest: xfA4jNKeuKSSjsxVT98gfLvQGNE=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rmUp8PvjBTPHl6zfSF0u4A==
+SHA1-Digest: GzfPYfVRuP9ixEw6vtWrwuCZUn0=
+
+Name: chrome/favres.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r6USW/zOV4pKnJ+ij6HebA==
+SHA1-Digest: eyagNNogetTGz+UdV8RJPBfNZAM=
+
